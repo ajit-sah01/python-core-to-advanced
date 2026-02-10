@@ -1,0 +1,3 @@
+NumPy (Numerical Python) is a Python library used for numerical computing.
+ It provides fast multidimensional arrays and mathematical functions. NumPy is widely used in data science, machine learning,
+ scientific computing, and numerical analysis because it performs operations faster than normal Python lists.
