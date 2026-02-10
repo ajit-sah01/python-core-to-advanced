@@ -1,0 +1,8 @@
+Install NumPy using pip: 
+1st open Terminal : -
+pip install numpy
+
+2nd Check installation:-
+pip show numpy
+
+
