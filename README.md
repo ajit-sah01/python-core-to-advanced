@@ -83,7 +83,7 @@ python-core-to-advanced
 ├── PYTHON GAMES
 ├── mypackage
 │
-├── Frsit.py
+├── First.py
 ├── second.py
 ├── .......
 ├── OneHundred.py
