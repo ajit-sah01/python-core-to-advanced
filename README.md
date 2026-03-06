@@ -83,10 +83,9 @@ python-core-to-advanced
 ├── PYTHON GAMES
 ├── mypackage
 │
-├── one.py
-├── two.py
-├── three.py
-├── ...
+├── Frsit.py
+├── second.py
+├── .......
 ├── OneHundred.py
 │
 └── README.md
