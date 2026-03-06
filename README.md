@@ -83,11 +83,11 @@ python-core-to-advanced
 ├── PYTHON GAMES
 ├── mypackage
 │
-├── 1.py
-├── 2.py
-├── 3.py
+├── one.py
+├── two.py
+├── three.py
 ├── ...
-├── 100.py
+├── OneHundred.py
 │
 └── README.md
 ```
